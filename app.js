@@ -1,1 +1,1 @@
-console.log(exclaim("howdy"));
+console.log(exclaim(repeat, "howdy"));
